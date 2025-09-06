@@ -14,10 +14,12 @@
 .quire-cover__hero .title {
     font-size: 5em;
     padding: 2px;
+    color: black;
 }
 
 .quire-cover__hero .subtitle {
     font-size: .5em;
+    color: black;
 }
 
 .quire-cover__hero .contributor {
