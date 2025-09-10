@@ -8,3 +8,5 @@ contributor:
 ---
 
 {% figure 'delilah' %}
+
+Delilah was found by my neighbors in the bushes outside my apartment when she was about 6 months old. The poor thing had been skunked, had fleas, and had recently given birth. She quickly adjusted to the good life...
