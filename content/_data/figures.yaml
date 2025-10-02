@@ -1,117 +1,53 @@
 figure_list:
 
   - id: "delilah"
-    src: "critters/delilah.jpg"
+    src: "pet-pics/delilah.jpg"
     caption: "Delilah is a sassy tortoiseshell cat beloging to Erin Dunigan"
-    alt: ""
+    alt: "A black and yellow cat casually rests on a maroon blanket on a gray couch."
 
   - id: "pip-squeak"
-    src: "critters/hummingbirds.jpg"
+    src: "pet-pics/pip-squeak.jpg"
     caption: "Two hummingbird chicks in a nest outside a Los Angeles apartment" 
-    alt: ""
+    alt: "Two baby hummingbirds perched in a nest surrounded by green leaves."
 
-  - id: ""
+  - id: "pet-03"
     src: ""
     caption: ""
     alt: ""
 
-  - id: ""
+  - id: "pet-04"
     src: ""
     caption: ""
     alt: ""
   
-  - id: ""
+  - id: "pet-05"
     src: ""
     caption: ""
     alt: ""
   
-  - id: ""
+  - id: "pet-06"
     src: ""
     caption: ""
     alt: ""
   
-  - id: ""
+  - id: "pet-07"
     src: ""
     caption: ""
     alt: ""
 
-  - id: ""
+  - id: "pet-08"
     src: ""
     caption: ""
     alt: ""
 
-  - id: ""
+  - id: "pet-09"
     src: ""
     caption: ""
     alt: ""
 
-  - id: ""
+  - id: "pet-10"
     src: ""
     caption: ""
     alt: ""
 
-  - id: ""
-    src: ""
-    caption: ""
-    alt: ""
-
-  - id: ""
-    src: ""
-    caption: ""
-    alt: ""
-
-  - id: ""
-    src: ""
-    caption: ""
-    alt: ""
-
-  - id: ""
-    src: ""
-    caption: ""
-    alt: ""
-
-  - id: ""
-    src: ""
-    caption: ""
-    alt: ""
-
-  - id: ""
-    src: ""
-    caption: ""
-    alt: ""
-
-  - id: ""
-    src: ""
-    caption: ""
-    alt: ""
-
-  - id: ""
-    src: ""
-    caption: ""
-    alt: ""
-
-  - id: ""
-    src: ""
-    caption: ""
-    alt: ""
-
-  - id: ""
-    src: ""
-    caption: ""
-    alt: ""
-
-  - id: ""
-    src: ""
-    caption: ""
-    alt: ""
-
-  - id: ""
-    src: ""
-    caption: ""
-    alt: ""
-
-  - id: ""
-    src: ""
-    caption: ""
-    alt: ""
   

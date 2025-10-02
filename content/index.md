@@ -4,7 +4,7 @@ layout: cover
 order: 1
 menu: false
 toc: false
-image: critters.jpg
+image: cover.jpg
 ---
 
 Cover credit: Photo by Reba Spike on Unsplash
