@@ -48,13 +48,12 @@ This section walks you through cloning the project from GitHub so you can add yo
 Follow these steps to actually add your pet to this publication. This includes making changes to the `_asset/images/` folder, adding an entry to the `figures.yaml` file, create a `.md` file for your pet, add a shortcode to pull in your pet's picture, add your content. 
 
 ### Add Your Image to the `_assets` folder
-
-1. Navigate to the `content/_assets/images/pet-pics/` folder and drag-and-drop an image of your pet into this folder. The file name should be your pet's name in all lowercase letters followed by `.jpg` or `.png` depending on the file type (for example, `delilah.jpg`). Please note, the extension must be all lowercase. 
+1. Navigate to the `content/_assets/images/pet-pics/` folder and drag-and-drop an image of your pet into this folder. The file name should be your pet's name followed by `.jpg` or `.png` depending on the file type (for example, `delilah.jpg`). Please note, everything must be lowercase. 
 
 ### Create a Figure Entry in `figures.yaml`
 
 1. Navigate to the `content/_data/figures.yaml` file and fill out one of the blank entries with your pet's information. Make sure all your content is surrounded by quotes. 
-2. Replace one the `id` of one of the blank entries (for example, replace `pet-XX` with your pet's name). The `id` must start with a letter and include no spaces as demonstrated by the other examples in this file.
+2. Replace the `id` in one of the blank entries (for example, `pet-XX` would become `delilah`). The `id` must be all lowercae, start with a letter, and include no spaces.
 3. For `src` add `pet-pics/` followed by your file name created in the section above (for example, `pet-pics/delilah.jpg`).
 4. For `caption` add whatever you would like. 
 5. For `alt` add a short visual description of your pet. This is used by screen readers for visually impaired readers. 
