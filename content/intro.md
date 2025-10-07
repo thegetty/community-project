@@ -6,6 +6,7 @@ order: 10
 image: figures/lange-house.jpg
 ---
 
+<<<<<<< Updated upstream
 Dorothea Lange had an extraordinary life and career as a prolific photographer. She worked for Arnold Genthe in his portrait studio in New York and studied photography with Clarence White at Columbia University. In 1918 she began to travel around the world to make her living as a photographer. She found herself stranded in San Francisco, so she opened a photographic studio there. Paul Taylor, who would become her second husband, hired her to document migratory workers in California.
 
 {% figure 'lange' 'is-pulled-right' %}
@@ -19,3 +20,10 @@ Walker Evans began to photograph in the late 1920s, making snapshots during a Eu
 Throughout his career Evans contributed photographs to numerous publications, including three devoted solely to his work. In 1965 he left Fortune, where he had been a staff photographer for twenty years, to become a professor of photography and graphic design at Yale University. He remained in the position until 1974, a year before his death.
 
 {% figure "audio-1" %}
+=======
+*Cute Critters* is a collection of the pets (or favorite animals) of Quire community members. Please see the ["How to Contribute to This Publication"](/add-your-pet/) section of this publication to learn how to add your own cute critter to this delightful collection. 
+
+This project was created by the Quire Community Manager, Erin Cecele Dunigan, with the intention of giving community members hands-on experience with both [GitHub](http://github.com) and [Quire](http://quire.getty.edu). 
+
+If you have questions or need assistance please reach out to [quire@getty.edu](mailto:quire@getty.edu). 
+>>>>>>> Stashed changes
